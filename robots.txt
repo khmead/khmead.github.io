@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://khmead.github.io/Giz/sitemap.Giz.gz
